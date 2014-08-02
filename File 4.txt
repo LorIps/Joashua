@@ -1,1 +1,3 @@
 Added in v2.0
+
+Additional v2 changes
